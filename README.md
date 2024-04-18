@@ -17,22 +17,22 @@ Labourer @ Longfield Landscapes
 - Developed skills and knowledge to work efficiently
 
 ## Projects
-4th Year Project - Ranged Enemy Behavioural AI with Pathfinding - Unity with C#
+###4th Year Project - Ranged Enemy Behavioural AI with Pathfinding - Unity with C#
 [GitHub Repo](https://github.com/BigBirdSlayer01/FYP-Randged-Enemy-AI-with-Pathfinding)
 
 4th Year Final Project - Created a Unity Package that handles the AI of a ranged Enemy with a finite state machine, a* pathfinding algorithm for movement, with a customisable aiming and bullet fall-off system
 
-2D Mobile Game with Analytics and Google Play Games support - Unity with C#
+###2D Mobile Game with Analytics and Google Play Games support - Unity with C#
 [GitHub Repo](https://github.com/BigBirdSlayer01/Android-Space-Game)
 
 Space game designed for the Android platform developed in Unity with my own artwork (which is why it is low quality), uses GameAnalytics.com to track game analytics and Google Play Games for an achievement System
 
-3D Wave Based Endless Horror Comedy Game: Theme Start With Nothing (File too big for GitHub) - Unity with C#
+###3D Wave Based Endless Horror Comedy Game: Theme Start With Nothing (File too big for GitHub) - Unity with C#
 [Itch Page](https://bigbirdslayer.itch.io/chicken-hunt-working-title-2-the-reckoning)
 
 3D wave based endless horror comedy game named Chicken Hunt (Working Title) 2 The Reckoning, made with unity to meet the theme start with nothing, contains an online leaderboard for score tracking
 
-3rd Year Group Porject Endless Runner - C++ with SFML
+###3rd Year Group Porject Endless Runner - C++ with SFML
 [GitHub Repo](https://github.com/BigBirdSlayer01/3rd-Year-Group-Project)
 
 2D game made for 3rd Year Group project, made in C++ with the SFML visual library, theme was endless runner and competed in Games Fleadh 2023
