@@ -6,7 +6,7 @@
 BSc (Hons) | Video Game Design & Development @ TUS (to be Completed by June 2024)
 
 ## Work Experience
-Inten @ Zenland Games
+Intern @ Zenland Games
 - Gameplay testing while fixing any bugs identified
 - Impementation of new GamePlay features to the Game
 - Implementation of new Art and Animations to the Game
