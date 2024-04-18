@@ -1,5 +1,3 @@
-# Matthew Cullen Portfolio
-
 #### Technical Skills: Unity, C#, C++, Java, Game Development, Game Testing
 
 ## Education
