@@ -1,7 +1,7 @@
-#### Technical Skills: Unity, C#, C++, Java, Game Development, Game Testing
+#### Technical Skills: C, C#, C++, Java, R, SQL, Python, Game Development, Software Development, Data Analytics, Cyber Security
 
 ## Education
-BSc (Hons) | Video Game Design & Development @ TUS (to be Completed by June 2024)
+BSc (Hons) | Video Game Design & Development (2.1)
 
 ## Work Experience
 Intern @ Zenland Games
